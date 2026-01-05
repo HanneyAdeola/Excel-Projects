@@ -98,7 +98,7 @@ These filters allow users to dynamically analyze performance across different re
 ---
 
 ## 🖼️ Dashboard Preview
-![Adventure Works Sales Dashboard](./dashboard.png)
+![Adventure Works Sales Dashboard](./Dashboard%202.png)
 
 ---
 
