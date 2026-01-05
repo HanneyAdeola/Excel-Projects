@@ -92,7 +92,7 @@ These KPIs provide a high-level overview of business performance.
 ---
 
 ## 🖼️ Dashboard Preview
-
+![Multi-Category Sales Performance Dashboard](hgfgg.png)
 
 ---
 
