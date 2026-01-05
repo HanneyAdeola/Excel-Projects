@@ -99,13 +99,7 @@ These filters allow users to dynamically analyze performance across different re
 
 ## 🖼️ Dashboard Preview
 ![Adventure Works Sales Dashboard](./Dashboard%202.png)
-
----
-
-## 📁 Project Files
-- `Adventure_Works_Sales_Analysis.xlsx` – Excel dashboard and analysis  
-- `dashboard.png` – Dashboard preview image  
-- `README.md` – Project documentation  
+ 
 
 ---
 
