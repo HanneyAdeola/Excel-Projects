@@ -96,13 +96,6 @@ These KPIs provide a high-level overview of business performance.
 
 ---
 
-## 📁 Project Files
-- `Sales Dashboard.xlsx` – Excel dashboard and analysis  
-- `dashboard.png` – Dashboard preview image  
-- `README.md` – Project documentation  
-
----
-
 ## 💡 Recommendations
 - Focus marketing efforts on high-performing weekdays
 - Introduce loyalty programs for high-value customers
