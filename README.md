@@ -1,6 +1,5 @@
-# Haneefat Adeola
+# Welcome! 👋
 
-Welcome! 👋  
 This repository contains selected data analytics projects demonstrating my skills in data cleaning, analysis, visualization, and insight generation.
 
 Each project folder is self-contained and includes:
