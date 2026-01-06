@@ -28,7 +28,7 @@ The key objectives of this analysis are to:
 ---
 
 ## 🖼️ Dashboard Preview
-![MRDYWS E-Commerce Dashboard](Dashboard%205.png)
+![MRDYWS E-Commerce Dashboard](./Dashboard%205.png)
 
 ---
 
