@@ -53,7 +53,7 @@ The dashboard highlights the following key performance indicators:
 ---
 
 ## 📊 Dashboard Preview
-![E-Commerce Order Performance Dashboard](dashboard.png)
+![E-Commerce Order Performance Dashboard](./Dashboard%205.png)
 
 ## 📊 Dashboard Insights
 
@@ -115,7 +115,3 @@ The findings can help stakeholders improve decision-making in inventory manageme
 
 ---
 
-## 📁 Project Deliverables
-- Excel Dataset
-- Interactive Excel Dashboard
-- `README.md` Documentation
